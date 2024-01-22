@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in Blockchain Core, Smart Contract, DeFi, and NFT.
 
-- 🌱 I’m currently studying Golang, go-ethereum, Uniswap-v4.
+- 🌱 I’m currently studying Golang, go-ethereum, Uniswap V4 hooks.
 
 - 📄 I'm writing articles on [Medium](https://medium.com/@chancold123).
 
@@ -23,8 +23,8 @@
 ## Connect with me
 
 <p>
-    <a href="https://twitter.com/@canu0205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@organ_mo" height="21" width="28" /></a>
-    <a href="https://linkedin.com/in/chanwoo-park-934b54243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seungmin" height="21" width="28" /></a>
+    <a href="https://twitter.com/@canu0205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@organ_mo" height="21" width="28" /></a>
+    <a href="https://linkedin.com/in/chanwoo-park-934b54243" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seungmin" height="21" width="28" /></a>
 </p>
 
 ## Projects
@@ -35,11 +35,11 @@
         <ul>
             <li>
                 Project at Interchain Hackathon, hosted by 
-                <a href="https://www.chainapsis.com/">Chainapsis</a> and <a href="https://interchain.io/">Interchain Foundation</a>. With World Engine made by <a href="https://twitter.com/ArgusLabs_">Argus labs</a>, users can play p2p onchain visual novel game easily.
+                <a href="https://www.chainapsis.com/" target="_blank">Chainapsis</a> and <a href="https://interchain.io/" target="_blank">Interchain Foundation</a>. With World Engine made by <a href="https://twitter.com/ArgusLabs_" target="_blank">Argus labs</a>, users can play p2p onchain visual novel game easily.
                 Used World Engine, Next.js, and GPT-4.
             </li>
             <li> 
-                1st prize on gaming track (<a href="https://devpost.com/software/onchain-visual-novel">Link</a>).
+                1st prize on gaming track (<a href="https://devpost.com/software/onchain-visual-novel" target="_blank">Link</a>).
             </li>
         </ul>
     </div>
@@ -51,11 +51,11 @@
         <ul>
             <li>
                 Project at Codestates Blockchain Bootcamp, hosted by 
-                <a href="https://github.com/codestates-beb/beb-09-final-Savvy">Codestates</a>. With ERC-6551 standard, users can easily manage their NFT holders and maintain community.
+                <a href="https://github.com/codestates-beb/beb-09-final-Savvy" target="_blank">Codestates</a>. With ERC-6551 standard, users can easily manage their NFT holders and maintain community.
                 Used Solidity, Next.js, and MongoDB.
             </li>
             <li> 
-                1st prize among every projects (<a href="https://www.youtube.com/watch?v=tstMMHnTRw8">Link</a>).
+                1st prize among every projects (<a href="https://www.youtube.com/watch?v=tstMMHnTRw8" target="_blank">Link</a>).
             </li>
         </ul>
     </div>
