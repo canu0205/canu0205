@@ -1,4 +1,4 @@
-### Hi there, I'm [Chris Park](https://canu0205.github.io) 👋
+### Hi there, I'm [Chris Park](https://canu.blog) 👋
 
 #### Software Engineer / Blockchain Researcher
 
