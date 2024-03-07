@@ -24,7 +24,7 @@
 
 <p>
     <a href="https://twitter.com/@canu0205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@organ_mo" height="21" width="28" /></a>
-    <a href="https://linkedin.com/in/chanwoo-park-934b54243" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seungmin" height="21" width="28" /></a>
+    <a href="https://www.linkedin.com/in/chanwoo-park-0x0205/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seungmin" height="21" width="28" /></a>
 </p>
 
 ## Projects
